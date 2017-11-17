@@ -1,0 +1,8 @@
+Struct	Address
+X86CPU	0x7fb8d6989f80
+CPUState	0x7fb8d6989f80
+CPUX86State	0x7fb8d6992200
+X86CPUClass	0x7fb8d6936a20
+X86CPUDefinition	0x7fb8d4b9e880
+BitProperty	0x7fb8d69a3af0
+Object	0x7fb8d6989f80

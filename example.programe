@@ -1,0 +1,6 @@
+    FILE * fp = 0;
+    fp = freopen("output.txt","a",stdout);
+    if (fp == 0)
+        printf("Cannot open file.\n");
+    printf("CPUX86State %p\n", (void *)env);
+    fclose(fp);

@@ -1,0 +1,10 @@
+X86CPU
+CPUState
+CPUX86State
+X86CPUClass
+X86CPUDefinition
+BitProperty
+Object
+x86_64_user_regs_struct
+QEMUCPUState
+x86_elf_prstatus

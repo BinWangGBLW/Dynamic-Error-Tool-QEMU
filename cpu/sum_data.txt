@@ -1,0 +1,9 @@
+Time\Struct	X86CPU	CPUState	CPUX86State	X86CPUClass	X86CPUDefinition	BitProperty	Object	x86_64_user_regs_struct	QEMUCPUState	x86_elf_prstatus
+-10	97	97	2	0	29	10	480	0	0	0
+0	97	97	2	0	29	10	480	0	0	0
+10	97	97	2	0	29	10	480	0	0	0
+20	97	97	2	0	29	10	480	0	0	0
+30	97	97	2	0	29	10	480	0	0	0
+40	97	97	2	0	29	10	480	0	0	0
+50	97	97	2	0	29	10	480	0	0	0
+60	97	97	2	0	29	10	480	0	0	0

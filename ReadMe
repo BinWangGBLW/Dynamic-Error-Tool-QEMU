@@ -1,0 +1,7 @@
+This is the data characterization tools for QEMU hypervisor.
+It can record the addresses from dynamic structures.
+It needs the probe injection to the QEMU hypervisor.
+
+The example shows in the following:
+
+./exec.py
